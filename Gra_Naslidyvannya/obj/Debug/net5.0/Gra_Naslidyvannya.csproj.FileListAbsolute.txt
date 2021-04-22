@@ -1,0 +1,16 @@
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\Gra_Naslidyvannya.exe
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\Gra_Naslidyvannya.deps.json
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\Gra_Naslidyvannya.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\Gra_Naslidyvannya.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\Gra_Naslidyvannya.dll
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\ref\Gra_Naslidyvannya.dll
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\bin\Debug\net5.0\Gra_Naslidyvannya.pdb
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.GeneratedMSBuildEditorConfig.editorconfig
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.dll
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\ref\Gra_Naslidyvannya.dll
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.pdb
+F:\YURKO\SHAG\Project C#\05_28032021_Lab_Успадкування_Поліморфізм_Абстрактні класи\Homework_Gra_Naslidyvannya\Gra_Naslidyvannya\Gra_Naslidyvannya\obj\Debug\net5.0\Gra_Naslidyvannya.genruntimeconfig.cache
